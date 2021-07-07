@@ -1,2 +1,2 @@
-# estudo
-Alguns projetos que uso para estudar e progredir como desenvolvedor
+# Instagram
+Projeto básico da interface do instagram para estudar e progredir como desenvolvedor
